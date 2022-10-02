@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SideBar/static/css/main.e0f79945.chunk.css",
+    "main.js": "/SideBar/static/js/main.88c7df0a.chunk.js",
+    "main.js.map": "/SideBar/static/js/main.88c7df0a.chunk.js.map",
+    "runtime-main.js": "/SideBar/static/js/runtime-main.a2531aa0.js",
+    "runtime-main.js.map": "/SideBar/static/js/runtime-main.a2531aa0.js.map",
+    "static/js/2.43f1e553.chunk.js": "/SideBar/static/js/2.43f1e553.chunk.js",
+    "static/js/2.43f1e553.chunk.js.map": "/SideBar/static/js/2.43f1e553.chunk.js.map",
+    "index.html": "/SideBar/index.html",
+    "precache-manifest.432d0c3260898e37f65aec8e489f4372.js": "/SideBar/precache-manifest.432d0c3260898e37f65aec8e489f4372.js",
+    "service-worker.js": "/SideBar/service-worker.js",
+    "static/css/main.e0f79945.chunk.css.map": "/SideBar/static/css/main.e0f79945.chunk.css.map",
+    "static/js/2.43f1e553.chunk.js.LICENSE.txt": "/SideBar/static/js/2.43f1e553.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/SideBar/static/media/logo.2bb7da65.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2531aa0.js",
+    "static/js/2.43f1e553.chunk.js",
+    "static/css/main.e0f79945.chunk.css",
+    "static/js/main.88c7df0a.chunk.js"
+  ]
+}
